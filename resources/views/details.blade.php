@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
 
-    <title>$Title$</title>
+    <title>Details</title>
 </head>
 <body>
-$END$
+<h1>Nothing For Now</h1>
 </body>
 </html>

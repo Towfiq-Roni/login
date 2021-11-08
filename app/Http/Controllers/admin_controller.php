@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-class admin_controller
+class admin_controller extends Controller
 {
 
 }
